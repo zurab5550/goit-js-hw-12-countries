@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/zurab5550/goit-js-hw-12-countries/issues"
   },
-  "homepage": "https://github.com/zurab5550/goit-js-hw-12-countries#readme",
+  "homepage": "https://zurab5550.github.com/goit-js-hw-12-countries#readme",
   "devDependencies": {
     "@babel/core": "^7.13.13",
     "@babel/preset-env": "^7.13.12",
